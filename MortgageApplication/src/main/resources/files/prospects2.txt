@@ -1,0 +1,15 @@
+Customer,Total loan,Interest,Years
+znar,8000,10,5
+Pires hos,43234556,152.2347,6
+Dilan Månsson,13040.55,34538.67,263
+"Danja,Andersson",2000,6,4
+
+
+
+.
+
+
+
+
+
+.
