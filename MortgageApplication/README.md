@@ -28,10 +28,13 @@ If you want you can also run the application without using docker, and use only 
 - Build the application by running:
     -      ./mvnw clean package
 - Run the jar file:
-    -     java -jar target/mortgage-0.0.1-SNAPSHOT.jar
+    -     java -jar target/MortgageApplication-0.0.1-SNAPSHOT.jar
 
 Check the website at:
 http://localhost:8080/mortgage
 
+------------------------------------------------------------
+Here is the link to the Web page running on AWS EC2:
 
+http://ec2-3-67-64-3.eu-central-1.compute.amazonaws.com
 
